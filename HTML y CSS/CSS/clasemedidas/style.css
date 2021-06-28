@@ -1,0 +1,52 @@
+/* p{
+    font-size: 16px;
+
+}
+main{
+    background-color: red;
+    width: 100%;
+    height: 500px;
+} */
+
+/* body{
+    font-size: 20px;
+}
+.text-container {
+    font-size: 1.5em;
+}
+.text-container  div{
+    font-size: 1.5em;
+} */
+
+
+/* *{   clase rem
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+p{
+    font-size: 1.6rem;
+
+} */
+
+*{  
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: purple;
+}
+section{
+    width: 80%;
+    min-width: 320px;
+    max-width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: red;
+}
